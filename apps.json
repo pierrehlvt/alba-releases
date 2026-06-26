@@ -12,18 +12,18 @@
       "iconURL": "https://raw.githubusercontent.com/pierrehlvt/alba-releases/main/icon.png",
       "tintColor": "E2918E",
       "category": "lifestyle",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "versionDate": "2026-06-26",
       "versionDescription": "Dernière version automatique.",
-      "downloadURL": "https://github.com/pierrehlvt/alba-releases/releases/download/v1.0.8/Alba.ipa",
-      "size": 14111795,
+      "downloadURL": "https://github.com/pierrehlvt/alba-releases/releases/download/v1.0.9/Alba.ipa",
+      "size": 14098345,
       "minOSVersion": "17.0",
       "versions": [
         {
-          "version": "1.0.8",
+          "version": "1.0.9",
           "date": "2026-06-26",
-          "downloadURL": "https://github.com/pierrehlvt/alba-releases/releases/download/v1.0.8/Alba.ipa",
-          "size": 14111795,
+          "downloadURL": "https://github.com/pierrehlvt/alba-releases/releases/download/v1.0.9/Alba.ipa",
+          "size": 14098345,
           "minOSVersion": "17.0"
         }
       ]
